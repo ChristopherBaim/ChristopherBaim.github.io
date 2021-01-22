@@ -1,7 +1,3 @@
-layout: page
-title: "Political GPS"
-permalink: /projects/PoliticalGPS
-
 ## Political GPS
 Political GPS is a program that uses real-time GPS data to display the electoral district you are in and the political party in power. 
 Election results and geographic boundary data is stored locally, so no internet connection is required.
