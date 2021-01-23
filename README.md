@@ -11,7 +11,7 @@ Optimized to run on a [Raspberry Pi Zero W](https://www.raspberrypi.org/products
 <p align="center">
   <img src="assets/GPSDisplay.gif" height="150">
   <br>
-  <b>Political GPS Display 1</b>
+  <b>Political GPS LCD Display</b>
 </p>
 
 ### [Dual Timer](https://christopherbaim.github.io/Dual_Timer/)
@@ -22,6 +22,8 @@ duration over a set period of time.
 
 <p align="center">
   <img src="/assets/DualTimer.gif" height="200">
+  <br>
+  <b>Dual Timer GUI</b>
 </p>
 
 ### [IMDb Ratings Visualizer](https://christopherbaim.github.io/IMDb_Visualizer/)
@@ -34,6 +36,8 @@ Check out the web app on Heroku:
 
 <p align="center">
   <img src="assets/Screenshot.png">
+  <br>
+  <b>IMDb ratings for The Mandalorian</b>
 </p>
 
 ### [Auto Drawer](https://christopherbaim.github.io/AutoDrawer/)
@@ -44,4 +48,6 @@ in applications that allow freehand mouse drawing (ex. Microsoft Paint or [Roll2
 
 <p align="center">
   <img src="/assets/Github.gif" width="200">
+  <br>
+  <b>GitHub logo drawn with Auto Drawer</b>
 </p>
