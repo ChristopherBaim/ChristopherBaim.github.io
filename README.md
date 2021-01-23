@@ -10,7 +10,7 @@ Optimized to run on a [Raspberry Pi Zero W](https://www.raspberrypi.org/products
 
 <p align="center">
   <img src="assets/GPSDisplay.gif" height="150">
-  *Political GPS Display*
+  <b>Political GPS Display 1</b>
 </p>
 
 ### [Dual Timer](https://christopherbaim.github.io/Dual_Timer/)
