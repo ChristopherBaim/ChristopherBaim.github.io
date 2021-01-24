@@ -1,5 +1,5 @@
 title: Christopher Baim
-logo: "/assets/Profile.png?raw=true"
+logo: <img src="/assets/Profile.png" height="250">
 description:
   MSc in Neuroscience
   <br><br>
