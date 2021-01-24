@@ -9,7 +9,7 @@ Optimized to run on a [Raspberry Pi Zero W](https://www.raspberrypi.org/products
  [16x2 LCD RGB backlit display](https://www.sparkfun.com/products/10862) and [Adafruit Ultimate GPS module](https://www.adafruit.com/product/746).
 
 <p align="center">
-  <kbd><img src="/assets/Montreal Map Overlay.png" height="150"></kbd>
+  <kbd><img src="/assets/Montreal Map Overlay.png" height="200"></kbd>
   <br>
   <b>Federal districts of Montreal</b>
 </p>
@@ -23,7 +23,7 @@ to simultaneously record two interaction types and their
 duration over a set period of time.
 
 <p align="center">
-  <kbd><img src="/assets/DualTimer.png" height="150"></kbd>
+  <kbd><img src="/assets/DualTimer.png" height="200"></kbd>
   <br>
   <b>Dual Timer GUI</b>
 </p>
