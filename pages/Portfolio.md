@@ -9,7 +9,7 @@ Optimized to run on a [Raspberry Pi Zero W](https://www.raspberrypi.org/products
  [16x2 LCD RGB backlit display](https://www.sparkfun.com/products/10862) and [Adafruit Ultimate GPS module](https://www.adafruit.com/product/746).
 
 <p align="center">
-  <img src="/assets/Montreal Map Overlay.png" height="150">
+  <kbd><img src="/assets/Montreal Map Overlay.png" height="150"></kbd>
   <br>
   <b>Federal districts of Montreal</b>
 </p>
@@ -23,7 +23,7 @@ to simultaneously record two interaction types and their
 duration over a set period of time.
 
 <p align="center">
-  <img src="/assets/DualTimer.png" height="150">
+  <kbd><img src="/assets/DualTimer.png" height="150"></kbd>
   <br>
   <b>Dual Timer GUI</b>
 </p>
@@ -39,7 +39,7 @@ Check out the web app on Heroku:
 <a href="https://imdb-visualizer.herokuapp.com/"><img src="/assets/heroku-logotype-horizontal-white.jpg" width="200">
 
 <p align="center">
-  <img src="/assets/Screenshot.png">
+  <kbd><img src="/assets/Screenshot.png"></kbd>
   <br>
   <b>IMDb ratings for The Mandalorian</b>
 </p>
@@ -53,7 +53,7 @@ From a source image, it draws a [binary image](https://en.wikipedia.org/wiki/Bin
 in applications that allow freehand mouse drawing (ex. Microsoft Paint or [Roll20](https://roll20.net/)).
 
 <p align="center">
-  <img src="/assets/Github.gif" width="200">
+  <kbd><img src="/assets/Github.gif" width="200"></kbd>
   <br>
   <b>GitHub logo drawn with Auto Drawer</b>
 </p>
