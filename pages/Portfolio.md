@@ -9,9 +9,9 @@ Optimized to run on a [Raspberry Pi Zero W](https://www.raspberrypi.org/products
  [16x2 LCD RGB backlit display](https://www.sparkfun.com/products/10862) and [Adafruit Ultimate GPS module](https://www.adafruit.com/product/746).
 
 <p align="center">
-  <img src="assets/GPSDisplay.gif" height="150">
+  <img src="/assets/Montreal Map Overlay.png" height="150">
   <br>
-  <b>Political GPS LCD Display</b>
+  <b>Federal districts of Montreal</b>
 </p>
 
 ### [Dual Timer](https://christopherbaim.github.io/Dual_Timer/)
@@ -21,7 +21,7 @@ to simultaneously record two interaction types and their
 duration over a set period of time.
 
 <p align="center">
-  <img src="/assets/DualTimer.gif" height="200">
+  <img src="/assets/DualTimer.png" height="150">
   <br>
   <b>Dual Timer GUI</b>
 </p>
@@ -35,7 +35,7 @@ Check out the web app on Heroku:
 <a href="https://imdb-visualizer.herokuapp.com/"><img src="/assets/heroku-logotype-horizontal-white.jpg" width="200">
 
 <p align="center">
-  <img src="assets/Screenshot.png">
+  <img src="/assets/Screenshot.png">
   <br>
   <b>IMDb ratings for The Mandalorian</b>
 </p>
