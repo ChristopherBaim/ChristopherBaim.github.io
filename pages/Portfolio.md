@@ -14,6 +14,8 @@ Optimized to run on a [Raspberry Pi Zero W](https://www.raspberrypi.org/products
   <b>Federal districts of Montreal</b>
 </p>
 
+---
+
 ### [Dual Timer](https://christopherbaim.github.io/Dual_Timer/)
 
 Dual Timer is a GUI with keyboard input that allows a user 
@@ -25,6 +27,8 @@ duration over a set period of time.
   <br>
   <b>Dual Timer GUI</b>
 </p>
+
+---
 
 ### [IMDb Ratings Visualizer](https://christopherbaim.github.io/IMDb_Visualizer/)
 
@@ -39,6 +43,8 @@ Check out the web app on Heroku:
   <br>
   <b>IMDb ratings for The Mandalorian</b>
 </p>
+
+---
 
 ### [Auto Drawer](https://christopherbaim.github.io/AutoDrawer/)
 
