@@ -26,4 +26,4 @@
   <kbd><img src="/assets/BA.png" height="300"></kbd>
   <br>
   <b>Migration of cranial neural crest cells during jaw development</b>
-</p>
+</p> 
