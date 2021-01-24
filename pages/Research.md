@@ -3,7 +3,7 @@
 #### [RGMB and neogenin control cell differentiation in the developing olfactory epithelium](https://dev.biologists.org/content/143/9/1534.long)
 
 <p align="center">
-  <kbd><img src="/assets/OE.tif" height="300"></kbd>
+  <kbd><img src="/assets/OE.png" height="300"></kbd>
   <br>
   <b>Neuronal proliferation in developing olfactory epithelium</b>
 </p>
