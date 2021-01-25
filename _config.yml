@@ -8,7 +8,7 @@ description:
   <b><a href="https://christopherbaim.github.io/pages/Research">Research</a></b><br>
   <b><a href="https://christopherbaim.github.io/assets/ChrisBaimCV.pdf">CV</a></b><br>
   <br><br>
-  <a href="https://www.linkedin.com/in/chrisbaim/">View My LinkedIn Profile</a>
+  #<a href="https://www.linkedin.com/in/chrisbaim/">View My LinkedIn Profile</a>
 
 theme: jekyll-theme-minimal
 icon: flavicon.ico
