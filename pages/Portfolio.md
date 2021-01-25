@@ -36,10 +36,10 @@ IMDb Visualizer is an interactive dashboard for viewing IMDb tv show ratings bro
 
 Check out the web app on Heroku:
 
-<a href="https://imdb-visualizer.herokuapp.com/"><img src="/assets/heroku-logotype-horizontal-white.jpg" width="200">
+<a href="https://imdb-visualizer.herokuapp.com/"><img src="/assets/heroku-logotype-horizontal-white.jpg" width="50">
 
 <p align="center">
-  <kbd><img src="/assets/Screenshot.png" width="200"></kbd>
+  <kbd><img src="/assets/Screenshot.png" width="350"></kbd>
   <br>
   <b>IMDb ratings for The Mandalorian</b>
 </p>
