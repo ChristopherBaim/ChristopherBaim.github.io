@@ -34,7 +34,7 @@ duration over a set period of time.
 
 IMDb Visualizer is an interactive dashboard for viewing IMDb tv show ratings broken down by Age and Gender.
 
-Check out the web app on Heroku: <a href="https://imdb-visualizer.herokuapp.com/"><img src="/assets/heroku-logotype-horizontal-white.jpg" width="50">
+Check out the web app on <a href="https://imdb-visualizer.herokuapp.com/"><img src="/assets/heroku-logotype-horizontal-white.jpg" width="50">
 
 <p align="center">
   <kbd><img src="/assets/Screenshot.png" width="350"></kbd>
