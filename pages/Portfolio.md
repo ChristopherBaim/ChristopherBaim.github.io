@@ -16,16 +16,16 @@ Optimized to run on a [Raspberry Pi Zero W](https://www.raspberrypi.org/products
 
 ---
 
-### [Dual Timer](https://christopherbaim.github.io/Dual_Timer/)
+### [Auto Drawer](https://christopherbaim.github.io/AutoDrawer/)
 
-Dual Timer is a GUI with keyboard input that allows a user 
-to simultaneously record two interaction types and their 
-duration over a set period of time.
+Auto Drawer is a simple freehand drawing tool using mouse automation.
+From a source image, it draws a [binary image](https://en.wikipedia.org/wiki/Binary_image)
+in applications that allow freehand mouse drawing (ex. Microsoft Paint or [Roll20](https://roll20.net/)).
 
 <p align="center">
-  <kbd><img src="/assets/DualTimer.png" height="200"></kbd>
+  <kbd><img src="/assets/AutoDrawerGUI.png" width="300"></kbd>
   <br>
-  <b>Dual Timer GUI</b>
+  <b>Auto Drawer GUI</b>
 </p>
 
 ---
@@ -44,14 +44,14 @@ Check out the web app on <a href="https://imdb-visualizer.herokuapp.com/"><img s
 
 ---
 
-### [Auto Drawer](https://christopherbaim.github.io/AutoDrawer/)
+### [Dual Timer](https://christopherbaim.github.io/Dual_Timer/)
 
-Auto Drawer is a simple freehand drawing tool using mouse automation.
-From a source image, it draws a [binary image](https://en.wikipedia.org/wiki/Binary_image)
-in applications that allow freehand mouse drawing (ex. Microsoft Paint or [Roll20](https://roll20.net/)).
+Dual Timer is a GUI with keyboard input that allows a user 
+to simultaneously record two interaction types and their 
+duration over a set period of time.
 
 <p align="center">
-  <kbd><img src="/assets/Github.gif" width="200"></kbd>
+  <kbd><img src="/assets/DualTimer.png" height="200"></kbd>
   <br>
-  <b>GitHub logo drawn with Auto Drawer</b>
+  <b>Dual Timer GUI</b>
 </p>
